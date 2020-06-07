@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../images/background-images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 0;
+    background-attachment: fixed;
+}
+
+#picture-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#picture-container img{
+    max-width: 300px;
+    margin: 20px;
+    border-radius: 7px;
+    border: 5px solid #FFFFFF;
+    opacity: 0.9;
+}
