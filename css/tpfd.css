@@ -30,7 +30,7 @@
 }
 
 
-#view-image > div {
+#view-image-level-2 {
     width: 100%;
     height: 100%;
     display: flex;
@@ -41,7 +41,7 @@
  
 #view-image-img {
     max-height: 90vh;
-    max-width: 90vw!important;
+    max-width: 96vw;
     border-radius: 10px;
     border-width: 5px;
     border-color: #FFFFFF;
