@@ -29,3 +29,42 @@ body {
 #view-image-img {
     cursor: pointer;
 }
+
+
+
+/* 
+
+#picture-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.image-box {
+    border: 2px #FFFFFF solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.image-box-title {
+    width: 90%;
+    background-color: yellow;
+    color: #FFFFFF;
+    font-size: 2em;
+    border-bottom: 1px solid #FFFFFF;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.image-box-content {
+    width: 100%;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+} */
